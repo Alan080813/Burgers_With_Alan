@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #1a1a1a;  
+  
     padding: 20px;
     text-align: center;
 }
@@ -45,7 +45,7 @@ h1 {
 }
 
 nav ul {
-    list-style-type: none;
+    list-style-type: none   ;
     padding: 0;
 }
 
@@ -64,7 +64,7 @@ section {
     background-color: #4d4d4d77; 
     margin: 20px;
     border-radius: 8px;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(3px);
 }
 
 h2 {
@@ -79,5 +79,118 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+
+.menu-container{
+   display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
